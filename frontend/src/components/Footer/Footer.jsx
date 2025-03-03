@@ -8,7 +8,7 @@ function Footer() {
         <div className='footer-content'>
             <div className='footer-content-left'>
                 <img src={assets.logo} alt='' />
-                <p>paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph </p>
+                <p>By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. </p>
                 <div className='footer-social-icons'>
                     <img src={assets.facebook_icon} alt='' />
                     <img src={assets.twitter_icon} alt='' />
